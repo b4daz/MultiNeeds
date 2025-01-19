@@ -1,0 +1,20 @@
+name: MultiNeeds
+version: 1.0.0
+main: MultiNeeds\Main
+api: [5.0.0]
+author: b4daz
+description: "Multiple useful commands like coordinates, night vision, feed, and heal."
+
+permissions:
+  multineeds.command.coordinates:
+    description: "Allow the user to toggle coordinates"
+    default: op
+  multineeds.command.nightvision:
+    description: "Allow the user to toggle night vision"
+    default: op
+  multineeds.command.feed:
+    description: "Allow the user to restore their hunger bar"
+    default: op
+  multineeds.command.heal:
+    description: "Allow the user to restore their health"
+    default: op
