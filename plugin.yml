@@ -4,6 +4,7 @@ main: MultiNeeds\Main
 api: [5.0.0]
 author: b4daz
 description: "Multiple useful commands like coordinates, night vision, feed, and heal."
+website: https://github.com/b4daz/MultiNeeds
 
 permissions:
   multineeds.command.coordinates:
