@@ -1,0 +1,14 @@
+coordinates:
+  enabled-message: "Coordinates have been enabled."
+  disabled-message: "Coordinates have been disabled."
+
+nightvision:
+  enabled-message: "Night vision has been enabled."
+  disabled-message: "Night vision has been disabled."
+  effect-duration: 300  # Duration in seconds
+
+feed:
+  success-message: "Your hunger bar has been restored."
+
+heal:
+  success-message: "Your health has been restored."
